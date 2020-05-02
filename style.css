@@ -1,0 +1,18 @@
+
+body {
+    background-image: url("fotodefundo1.jpg");
+    background-size: cover;
+  }
+
+header{
+   border-bottom: 1px orange  solid;
+   width: 350px;
+   color: darkgoldenrod ;
+    
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+    color: black;
+  }

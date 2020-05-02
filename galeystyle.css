@@ -1,0 +1,27 @@
+body{
+    background-color: darkgoldenrod
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+h1{
+    font-family: fantasy;
+    font-size: 3em;
+    color: orange;
+    border-bottom: 2px solid orange;
+    width: 350px
+}
+
+img{
+    width:450px;
+    height:300px ;
+    margin: 5px;
+    transition: all 1s;
+}
+
+img:hover{
+  transform: scale(1.1) ;
+}
